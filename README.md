@@ -1,11 +1,38 @@
-A Solution for implementing red black trees in Java
+# Red Black Tree's Solution
 
-This solution provides the following case's
+Solution to solving red black tree properties. Program is composed of a Binary Search Tree that is modified to be a Red Black Tree
 
-- Case 1: X is the root
-- Case 2: X.uncle is the root
-- Case 3: X.uncle is the colour Black (Triangle)
-- Case 4: X.uncle is the colour Black (Line)
+## Description
 
-This solution is here to provide some learning opportunities.
+This Solution solves the following cases
 
+- Case 1: X is the Root
+- Case 2: X.uncle is Red
+- Case 3: X.uncle is Black (Triangle)
+- Case 4: X.uncle is Black (Line)
+
+## Getting Started
+
+### Dependencies
+
+* None
+
+### Installing
+
+* Download as a ZIP file or clone the repository
+* Open the project in your IDE
+
+### Executing program
+
+* Simply run the project in your IDE
+
+## Authors
+
+Contributors names and contact info
+
+Nikita Kramtsaninov
+
+## Version History
+
+* 0.1
+    * Initial Release
